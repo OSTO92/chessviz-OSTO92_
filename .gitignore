@@ -1,4 +1,4 @@
-/*.o
+/*.o .a .d
 /.main.c.swp
 /main.c~
 chess
